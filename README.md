@@ -1,6 +1,6 @@
 # Analise-de-Estoque
-Código para analisar itens defeituosos de um estoque. Código em Java, primeiro semestre.
-mport java.util.Scanner;
+Sistema desenvolvido em Java focado no controle de qualidade e identificação de itens defeituosos em inventários de estoque.
+import java.util.Scanner;
 /**
  *
  * @author joana
