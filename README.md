@@ -1,6 +1,4 @@
 # Analise-de-Estoque
-Sistema desenvolvido em Java focado no controle de qualidade e identificação de itens defeituosos em inventários de estoque.
-
 
 import java.util.Scanner;
 /**
